@@ -32,3 +32,20 @@ Functions
 Loops & conditionals
 
 User input handling
+
+
+🚀 Possible Enhancements
+
+💳 Add coin/bill-based payment system
+
+📊 Detailed profit report
+
+🧾 Order history tracking
+
+🎨 GUI version using Tkinter / Streamlit
+
+🧱 OOP-based refactoring (CoffeeMachine, Menu, Drink classes)
+
+👤 Author
+
+Sairaj Jadhav
